@@ -38,6 +38,14 @@ Move to the Setup.py
 
 
 ```
+Run Publisher and Subscriber
+```bash
+$ ros2 run my_package my_node #publisher
+$ ros2 run my_package alici #subscriber
+
+
+```
+
 
 
 
