@@ -50,6 +50,9 @@ $ ros2 run my_package alici #subscriber
 ![1](https://github.com/ilknurkoparir/face-detection-algorithm-on-ros2-humble/assets/129418387/7a60245c-c9fd-4fa5-9918-ee65eb487bae)
 
 
+![2](https://github.com/ilknurkoparir/face-detection-algorithm-on-ros2-humble/assets/129418387/dd12198f-1e30-49ce-bb4c-151342f755e9)
+
+
 
 
 
