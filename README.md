@@ -38,6 +38,12 @@ Move to the Setup.py
 
 
 ```
+Topic List
+```bash
+$ ros2 topic list
+
+```
+
 Run Publisher and Subscriber
 ```bash
 $ ros2 run my_package my_node #publisher
